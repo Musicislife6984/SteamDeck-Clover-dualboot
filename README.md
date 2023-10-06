@@ -57,7 +57,7 @@ Once done, boot to SteamOS to install Clover!
    rm -rf ~/SteamDeck-Clover-dualboot <br>
    
    Then perform the clone again - <br>
-   git clone https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot <br>
+   git clone https://github.com/Musicislife6984/SteamDeck-Clover-dualboot <br>
    
 3. Execute the script! <br>
    cd ~/SteamDeck-Clover-dualboot <br>
